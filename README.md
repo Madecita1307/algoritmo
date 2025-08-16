@@ -1,2 +1,1 @@
-# algoritmo
-# madeleine
+# ALGORITMOS / RESTAURAR
